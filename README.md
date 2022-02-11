@@ -1,6 +1,8 @@
 # etch-a-sketch
 A project building a version of Etch-A-Sketch on HTML from The Odin Project.
 
+https://luuu-xu.github.io/etch-a-sketch/
+
 1.
 - Wrote JavaScript function createGrid(number) so that the pixels can be created and appended to the container div.
 - Used CSS grid in style.css on .container so that the pixels divs are nicely and automatically organized inside the box.
